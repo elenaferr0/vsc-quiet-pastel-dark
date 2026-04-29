@@ -1,0 +1,20 @@
+{
+  "name": "quiet-pastel-dark",
+  "displayName": "Quiet Pastel Dark",
+  "description": "A dark theme based on Quiet Light",
+  "version": "0.0.1",
+  "publisher": "local",
+  "license": "MIT",
+  "engines": { "vscode": "*" },
+  "categories": ["Themes"],
+  "contributes": {
+    "themes": [
+      {
+        "id": "Quiet Pastel Dark",
+        "label": "Quiet Pastel Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/quiet-dark-color-theme.json"
+      }
+    ]
+  }
+}
