@@ -1,3 +1,5 @@
+> ⚠️ This repo has been migrated to Codeberg https://codeberg.org/elenaferr0/vsc-quiet-pastel-dark
+
 # Quiet Pastel Dark
 
 A dark theme with a pastel palette — soft purples, muted blues, and sage greens. Based on Quiet Light.
